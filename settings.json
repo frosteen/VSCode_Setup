@@ -1,0 +1,40 @@
+{
+  "editor.fontSize": 15,
+  "editor.fontWeight": "500",
+  "debug.console.fontSize": 15,
+  "terminal.integrated.fontSize": 15,
+  "terminal.integrated.fontWeight": "500",
+  "editor.formatOnSave": true,
+  "[plaintext]": {
+    "editor.quickSuggestions": {
+      "comments": "off",
+      "strings": "off",
+      "other": "off"
+    },
+  },
+  "editor.quickSuggestionsDelay": 100,
+  "zenMode.centerLayout": false,
+  "zenMode.fullScreen": false,
+  "zenMode.hideLineNumbers": false,
+  "editor.minimap.enabled": false,
+  "workbench.settings.openDefaultSettings": true,
+  "workbench.settings.editor": "json",
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.colorTheme": "Visual Studio Dark",
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "security.workspace.trust.untrustedFiles": "open",
+  "security.workspace.trust.enabled": false,
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.saveFileBeforeRun": true,
+  "code-runner.runInTerminal": true,
+  "code-runner.ignoreSelection": true,
+  "python.defaultInterpreterPath": "C:\\Users\\Luis Daniel Pambid\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+  "debug.console.closeOnEnd": true,
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "git.autofetch": true,
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "git.openRepositoryInParentFolders": "always",
+}
