@@ -1,12 +1,12 @@
 # VSCode_Setup
 My to-do-lists when installing a fresh new of Visual Studio Code.
 
-## DotFiles
+## DotFiles to Replace
 ```
     Copy and replace 'keybindings.json' and 'settings.json' in '%appdata%\Code\User'
 ```
 
-## Extensions
+## Extensions to Install
 1. Code Runner
 1. Python
 1. Pylance
