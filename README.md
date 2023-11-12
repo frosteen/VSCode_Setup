@@ -3,7 +3,7 @@ My to-do-lists when installing a fresh new of Visual Studio Code.
 
 ## DotFiles to Replace
 ```
-    Copy and replace 'keybindings.json' and 'settings.json' in '%appdata%\Code\User'
+Copy and replace 'keybindings.json' and 'settings.json' in '%appdata%\Code\User'
 ```
 
 ## Extensions to Install
