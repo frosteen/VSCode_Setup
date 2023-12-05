@@ -12,6 +12,8 @@ Copy and replace 'keybindings.json' and 'settings.json' in '%appdata%\Code\User'
 1. Pylance
 1. Black Formatter
 1. isort
+1. IntelliCode
+1. Prettier
 
 ## Tip
 **If you like my hard work, I would appreciate it if you could buy some coffee for me.**
