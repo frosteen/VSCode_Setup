@@ -21,11 +21,17 @@
   "git.enableSmartCommit": true,
   "git.confirmSync": false,
   "git.openRepositoryInParentFolders": "always",
+  "prettier.printWidth": 500,
   "[python]": {
     "editor.defaultFormatter": "ms-python.black-formatter"
   },
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "prettier.printWidth": 500,
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
 }
