@@ -21,7 +21,7 @@
   "git.enableSmartCommit": true,
   "git.confirmSync": false,
   "git.openRepositoryInParentFolders": "always",
-  "prettier.printWidth": 500,
+  "prettier.printWidth": 200,
   "[python]": {
     "editor.defaultFormatter": "ms-python.black-formatter"
   },
