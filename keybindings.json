@@ -2,7 +2,7 @@
 [
   {
     "key": "shift+alt+s",
-    "command": "python.sortImports"
+    "command": "editor.action.organizeImports"
   },
   {
     "key": "f5",
