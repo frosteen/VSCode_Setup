@@ -3,9 +3,6 @@
   "zenMode.centerLayout": false,
   "zenMode.fullScreen": false,
   "zenMode.hideLineNumbers": false,
-  "editor.minimap.enabled": false,
-  "workbench.settings.openDefaultSettings": true,
-  "workbench.settings.editor": "json",
   "security.workspace.trust.untrustedFiles": "open",
   "security.workspace.trust.enabled": false,
   "code-runner.clearPreviousOutput": true,
@@ -17,6 +14,7 @@
   "git.suggestSmartCommit": false,
   "git.confirmSync": false,
   "prettier.printWidth": 150,
+  "javascript.updateImportsOnFileMove.enabled": "always",
   "[python]": {
     "editor.defaultFormatter": "ms-python.black-formatter"
   },
@@ -37,6 +35,5 @@
   },
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "javascript.updateImportsOnFileMove.enabled": "always"
+  }
 }
