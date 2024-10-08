@@ -15,8 +15,11 @@
   "git.confirmSync": false,
   "prettier.printWidth": 150,
   "javascript.updateImportsOnFileMove.enabled": "always",
+  "explorer.confirmDragAndDrop": false,
+  "tailwind-fold.autoFold": false,
   "[python]": {
-    "editor.defaultFormatter": "ms-python.black-formatter"
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "diffEditor.ignoreTrimWhitespace": false
   },
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"

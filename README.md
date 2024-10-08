@@ -13,11 +13,11 @@ Copy and replace 'settings.json' in '%appdata%\Code\User'
 1. Code Runner
 1. Python
 1. Black Formatter
-1. IntelliCode
 1. Prettier
-1. ESLint
 1. Azure Tools
 1. Codeium
+1. Tailwind CSS IntelliSense
+1. Tailwind Fold
 
 ## Tip
 
